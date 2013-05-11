@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="MoveView">
+        <attr name="image" format="reference"/>
+    </declare-styleable>
+</resources>
